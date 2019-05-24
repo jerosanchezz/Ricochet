@@ -1,4 +1,4 @@
-# Ricochet
+# Ricochet - V1.0
 
 It's like a single-player Pong with fun added physics and other features. You have to keep the ball on screen as long as you can. There is also a level editor included. 
 
